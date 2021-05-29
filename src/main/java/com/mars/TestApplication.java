@@ -9,7 +9,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 public class TestApplication {
 
 	public static void main(String[] args) {
-		//启动程序
+		//启动程序，测试
 		SpringApplication.run(TestApplication.class, args);
 	}	
 }
